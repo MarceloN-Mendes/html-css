@@ -1,3 +1,3 @@
 # html-css
  
-<a href="index.html">exercicio 1</a>
+<a href="teste.html">exercicio 1</a>
